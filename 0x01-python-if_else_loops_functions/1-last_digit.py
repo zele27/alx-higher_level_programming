@@ -12,9 +12,10 @@ else:
     if last_digit > 5:
         print(f"Last digit of {number:d} is {last_digit} {greaterThan5}")
     elif last_digit == 0:
-    print(f"Last digit of {number:d} is {last_digit} {zero}")
+        print(f"Last digit of {number:d} is {last_digit} {zero}")
     else:
-    print(f"Last digit of {number:d} is {last_digit} {lessThan6}")
+        print(f"Last digit of {number:d} is {last_digit} {lessThan6}")
+
 
      
 
