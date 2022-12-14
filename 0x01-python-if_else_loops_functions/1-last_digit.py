@@ -15,7 +15,3 @@ else:
         print(f"Last digit of {number:d} is {last_digit} {zero}")
     else:
         print(f"Last digit of {number:d} is {last_digit} {lessThan6}")
-
-
-     
-
