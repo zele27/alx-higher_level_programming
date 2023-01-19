@@ -2,6 +2,6 @@
 """Defines a class BaseGeometry"""
 
 
-class BaseGeometr:
+class BaseGeometry:
     """This class has no content yet"""
     pass
